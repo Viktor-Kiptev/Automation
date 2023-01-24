@@ -1,5 +1,6 @@
 import requests
 
+
 # API url (response 204)
 url = "https://reqres.in/api/users/2"
 
