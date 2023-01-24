@@ -1,0 +1,17 @@
+{
+  "name" : "Viktor",
+  "age" : 23,
+  "phoneNumber" : "0999955111",
+  "city" : ["Kiev", "London"],
+  "address" :
+      {
+        "street" : "Golenkamp",
+        "house_#" : "888",
+        "city" : "Berlin",
+        "number" :
+            {
+              "home_number" : "11223344",
+              "mobile" : "80808044"
+            }
+      }
+}

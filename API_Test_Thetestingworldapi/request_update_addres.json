@@ -1,0 +1,39 @@
+{
+  "Permanent_Address": {
+    "House_Number": "188",
+    "City": "Nanaimo ",
+    "State": "BC",
+    "Country": "Kanada",
+    "PhoneNumber": [
+      {
+        "Std_Code": "0144357",
+        "Home": "188",
+        "Mobile": "+123380996622500"
+      },
+      {
+        "Std_Code": "0144357",
+        "Home": "188",
+        "Mobile": "+123380996622500"
+      }
+    ]
+  },
+  "Current_Address": {
+    "House_Number": "188",
+    "City": "Nanaimo ",
+    "State": "BC",
+    "Country": "Kanada",
+    "PhoneNumber": [
+      {
+        "Std_Code": "0144357",
+        "Home": "188",
+        "Mobile": "+123380996622500"
+      },
+      {
+        "Std_Code": "0144357",
+        "Home": "188",
+        "Mobile": "+123380996622500"
+      }
+    ]
+  },
+  "stId": "88"
+}
